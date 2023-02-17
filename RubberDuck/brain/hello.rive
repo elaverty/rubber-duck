@@ -1,0 +1,61 @@
+! version = 2.0
+
+
++ start 
+- Hi!  \nI'm a virtual rubber duck and a good friend of Ms. Laverty! 
+
+
++ code
+- is your program running or giving you an error?
+
+
++ chat
+- ok, then.  what do you want to chat about?
+
++ ugh
+- really?  you expected more from me?
+
++ class
+- java class for objects or the classroom?
+
++ objects
+- throw all objects out the window
+- did you make a constructor?
+- did you initialize the instance variables?
+- are your instance variables private?
+
+
+
+
+
+
++ hello
++ hi
+- Want to talk about code?  or just chat?
+
++ how are you
+- I'm great, how are you?
+- I'm good, you?
+- Good :) you?
+- Great! You?
+- I'm fine, thanks for asking!
+
+
++ what is up
+- Not much, you?
+- nm, you?
+- Not a lot, you?
+
++ you are a bot
+- How did you know I'm a machine?
+
++ bye
+- Bye!
+
++ running
+- then why don't you go catch it :)
+
+
++ say *
+- Umm... "<person>"
+

@@ -1,0 +1,22 @@
+! version = 2.0
+
++ error 
+- What kind of error?
+
++ (arithmetic|index|not found|io|interrupt|no such|nosuch|null|number|runtime|bounds) 
+- i hate that error \n what line is it on?
+
++ i do not know
+- have you even looked at your code?
+
++ exception
+- what kind of exception is it?
+
+
++ java
+- It's pretty much the best language.
+- I wish I could program everyday.
+- Would you rather program in another language?
+
++ not working
+- I wish I knew why it wasn't working, but my guess is a semilcolon.
